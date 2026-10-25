@@ -1,0 +1,14 @@
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+
+# Android
+.gradle/
+local.properties
+**/android/**/gradle-wrapper.jar
+
+# macOS
+.DS_Store
